@@ -26,3 +26,4 @@ Additions:
   - Genres:
     - Short
     - Adult
+  - Boxoffice Gross
