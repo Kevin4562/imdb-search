@@ -19,11 +19,12 @@ Additions:
     - Crackle
     - CBS All Access
   - Certifications:
+    - Rated X
     - TV-G
     - TV-PG
-    - TV-13
     - TV-MA
   - Genres:
     - Short
     - Adult
   - Boxoffice Gross
+  - Search opens in new tab
