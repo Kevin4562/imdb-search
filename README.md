@@ -26,5 +26,6 @@ Additions:
   - Genres:
     - Short
     - Adult
+  - Exclude Genres
   - Boxoffice Gross
   - Search opens in new tab
